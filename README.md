@@ -2,5 +2,4 @@
 This is a test file
 
 Hello World!!
-Hello World again!
-jenkins-test!
+trigger1#1
